@@ -12,11 +12,16 @@
 
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
-1. 🌈 **RainbowCSS**: Una librería CSS que agrega colores vibrantes y estilos modernos a tus sitios web. ¡Dale vida a tus diseños con facilidad!
-
-2. 🐍 **PyWebScraping**: Un conjunto de scripts en Python para realizar web scraping de manera sencilla. Obtén datos de páginas web de forma automatizada y úsalos en tus propias aplicaciones.
-
-3. ☕ **JavaChatApp**: Una aplicación de chat desarrollada en Java que permite a los usuarios comunicarse en tiempo real. ¡Conecta con tus amigos y colegas de forma instantánea!
+/
+├── Vivero-San-Vicente/
+|
+├── Dimi-Studios/
+│  
+├── Dimi-Web/
+│ 
+├── Tym/
+|
+└── README.md
 
 ## Cómo colaborar
 
