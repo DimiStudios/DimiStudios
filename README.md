@@ -12,7 +12,6 @@
 
 ¡No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto interesante!
 
-https://media.giphy.com/media/26uflI1zpxJyJY4fu/giphy.gif
 
 <!--
 **DIMIBAGA/DIMIBAGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
