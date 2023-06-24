@@ -1,18 +1,4 @@
-# 👋 ¡Hola! Soy un apasionado programador con experiencia en HTML, CSS, Python y Java.
-
-💻 Me especializo en el desarrollo web. Utilizo HTML y CSS para dar vida a diseños elegantes y responsivos, asegurándome de que los sitios se vean increíbles en todos los dispositivos.
-
-🐍 Además, tengo habilidades en Python, lo cual me permite automatizar tareas, desarrollar aplicaciones y trabajar en proyectos de análisis de datos. Soy capaz de crear scripts eficientes y soluciones creativas utilizando bibliotecas.
-
-☕ En cuanto a Java, he trabajado en proyectos de desarrollo de software, implementando soluciones robustas.
-
-🚀 Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer como profesional. Me encanta colaborar en equipos y enfrentar problemas complejos, encontrando soluciones innovadoras.
-
-🌟 Estoy emocionado por seguir explorando el mundo de la programación y compartir mis conocimientos a través de proyectos y colaboraciones en GitHub.
-
-¡No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto interesante!
-
-/* Descripción del Programador */
+# /* Descripción del Programador */
 
 // Lenguajes de Programación
 const lenguajes = ["HTML", "CSS", "Python", "Java"];
