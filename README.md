@@ -1,4 +1,4 @@
-# Bienvenido al repositorio de Diana
+# 👋 Bienvenido al repositorio de Diana
 
 ¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
 
