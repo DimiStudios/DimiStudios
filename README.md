@@ -12,7 +12,7 @@
 
 ¡No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto interesante!
 
-![Dinosaurio de Google](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![Dinosaurio de Google](https://cl.buscafs.com/www.qore.com/public/uploads/images/79382/79382.gif)
 
 
 <!--
