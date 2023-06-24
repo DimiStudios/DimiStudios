@@ -13,15 +13,31 @@
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
 /
-├── Vivero-San-Vicente/
-|
-├── Dimi-Studios/
-│  
-├── Dimi-Web/
-│ 
-├── Tym/
-|
+├── Proyectos/
+│   ├── Proyecto-1/
+│   │   ├── index.html
+│   │   └── style.css
+│   ├── Proyecto-2/
+│   │   ├── main.py
+│   │   └── utils.py
+│   └── Proyecto-3/
+│       ├── src/
+│       │   └── Archivo.java
+│       └── README.md
+├── Recursos/
+│   ├── Imagenes/
+│   │   ├── imagen1.png
+│   │   ├── imagen2.png
+│   │   └── imagen3.png
+│   └── Documentos/
+│       ├── documento1.pdf
+│       └── documento2.pdf
+├── Scripts/
+│   ├── script1.py
+│   ├── script2.py
+│   └── script3.py
 └── README.md
+
 
 
 ## 🤝 Cómo colaborar
