@@ -13,15 +13,16 @@
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
 /
-├── Vivero-San-Vicente/
-|
-├── Dimi-Studios/
-│  
-├── Dimi-Web/
-│ 
-├── Tym/
-|
+├── Carpeta-1/
+│   ├── Archivo-1.html
+│   └── Archivo-2.css
+├── Carpeta-2/
+│   ├── Archivo-1.py
+│   └── Archivo-2.py
+├── Carpeta-3/
+│   └── Archivo-1.java
 └── README.md
+
 
 ## Cómo colaborar
 
