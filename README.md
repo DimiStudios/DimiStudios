@@ -2,29 +2,29 @@
 
 ¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
 
-## Acerca de mí
+## 🐱 Acerca de mí
 
 👨‍💻 Soy un entusiasta de la programación y me encanta crear soluciones innovadoras. Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer como desarrollador.
 
 🌐 Mi enfoque principal se centra en el desarrollo web utilizando HTML y CSS para crear interfaces atractivas y responsivas. Además, también disfruto desarrollando aplicaciones con Python y Java para potenciar la funcionalidad del lado del servidor.
 
-## Proyectos destacados
+## 📁 Proyectos destacados
 
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
 /
-├── Carpeta-1/
-│   ├── Archivo-1.html
-│   └── Archivo-2.css
-├── Carpeta-2/
-│   ├── Archivo-1.py
-│   └── Archivo-2.py
-├── Carpeta-3/
-│   └── Archivo-1.java
+├── Vivero-San-Vicente/
+|
+├── Dimi-Studios/
+│  
+├── Dimi-Web/
+│ 
+├── Tym/
+|
 └── README.md
 
 
-## Cómo colaborar
+## 🤝 Cómo colaborar
 
 ¡Me encantaría recibir contribuciones y sugerencias para mejorar mis proyectos! Si te gustaría colaborar, aquí hay algunas formas de hacerlo:
 
@@ -34,7 +34,7 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 
 3. 🤝 **Pull Requests**: Si deseas agregar nuevas características o corregir problemas existentes, ¡envía un "pull request"! Revisaré tus cambios y los fusionaré si son beneficiosos para el proyecto.
 
-## Contacto
+## 📞 Contacto
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación y desarrollo web!
 
