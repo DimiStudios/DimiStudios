@@ -40,8 +40,7 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante y útil aquí. ¡Diviértete explorando y desarrollando! 😄
 
 
-![Dinosaurio de Google](https://cl.buscafs.com/www.qore.com/public/uploads/images/79382/79382.gif)
-
+[![Dino_gif](gifdino.gif)](javascript:playGame())
 
 <!--
 **DIMIBAGA/DIMIBAGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
