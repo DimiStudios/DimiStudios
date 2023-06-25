@@ -1,4 +1,4 @@
-# 👋 Bienvenido al repositorio de Diana
+# 👋 console. log("Hello world!");
 
 ¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
 
@@ -11,6 +11,13 @@
 ## 📁 Proyectos destacados
 
 Aquí hay una muestra de algunos de mis proyectos más destacados:
+
+### 🤖 TYM Chatbot Inteligente para Asistencia
+### 🌐 Páginas web para empresas:
+1. Mostacilla
+2. Vivero San Vicente
+3. DimiStudios
+4. Transmarr
 
 ## 🤝 Cómo colaborar
 
@@ -27,6 +34,8 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación y desarrollo web!
 
 📧 Email: dianabarrantesga1510@example.com
+
+📲 Linkedln: https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante y útil aquí. ¡Diviértete explorando y desarrollando! 😄
 
