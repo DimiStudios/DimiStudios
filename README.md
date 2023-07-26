@@ -33,7 +33,7 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación y desarrollo web!
 
-📧 Email: dianabarrantesga1510@example.com
+📧 Email: dianabarrantesga1510@gmail.com
 
 📲 Linkedln: https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/
 
