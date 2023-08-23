@@ -12,7 +12,7 @@
 
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
-### 🌱 Proyecto ecológico SSHADA
+### 🌱 Proyecto ecológico SAFCA
 ### 🤖 TYM Chatbot Inteligente para Asistencia
 ### 🌐 Páginas web para empresas:
 1. Mostacilla
