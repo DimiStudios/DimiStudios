@@ -1,6 +1,6 @@
 # 👋 console. log("Hello world!");
 
-¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
+¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Javascript, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
 
 ## 🐱 Acerca de mí
 
