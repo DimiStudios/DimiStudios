@@ -1,45 +1,44 @@
-# 👋 console. log("Hello world!");
+# 👋 console.log("Hello world!");
 
-¡Hola! Soy un apasionado desarrollador web y programador en HTML, CSS, Javascript, Python y Java. ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos, códigos y experimentos creativos.
+Hello! I'm an enthusiastic web developer and programmer proficient in HTML, CSS, JavaScript, Python, and Java. Welcome to my GitHub repository! Here you'll find a collection of my projects, code snippets, and creative experiments.
 
-## 🐱 Acerca de mí
+## 🐱 About Me
 
-👨‍💻 Soy un entusiasta de la programación y me encanta crear soluciones innovadoras. Siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer como desarrollador.
+👨‍💻 I'm a programming enthusiast who loves crafting innovative solutions. I'm always on the lookout for new challenges and opportunities to learn and grow as a developer.
 
-🌐 Mi enfoque principal se centra en el desarrollo web utilizando HTML y CSS para crear interfaces atractivas y responsivas. Además, también disfruto desarrollando aplicaciones con Python y Java para potenciar la funcionalidad del lado del servidor.
+🌐 My primary focus revolves around web development, using HTML and CSS to create engaging and responsive interfaces. Additionally, I enjoy building applications with Python and Java to enhance server-side functionality.
 
-## 📁 Proyectos destacados
+## 📁 Featured Projects
 
-Aquí hay una muestra de algunos de mis proyectos más destacados:
+Here's a glimpse of some of my standout projects:
 
-### 🌱 Proyecto ecológico SAFCA
-### 🤖 TYM Chatbot Inteligente para Asistencia
-### 🌐 Páginas web para empresas:
+### 🌱 Eco-friendly Project SAFCA
+### 🤖 TYM Intelligent Chatbot for Assistance
+### 🌐 Company Websites:
 1. Yawar Ayllu
 2. Vivero San Vicente
 3. DimiStudios
 4. Transmarr
 
-## 🤝 Cómo colaborar
+## 🤝 How to Contribute
 
-¡Me encantaría recibir contribuciones y sugerencias para mejorar mis proyectos! Si te gustaría colaborar, aquí hay algunas formas de hacerlo:
+I would love to receive contributions and suggestions to enhance my projects! If you'd like to collaborate, here are a few ways to do so:
 
-1. 🌟 **Star**: Si encuentras alguno de mis proyectos interesante o útil, ¡dale una estrella en GitHub! Esto me ayudará a conocer tus preferencias y a mantenerme motivado.
+1. 🌟 **Star**: If you find any of my projects interesting or useful, give it a star on GitHub! This helps me gauge your preferences and keeps me motivated.
 
-2. 🐛 **Issues**: Si encuentras algún error o tienes alguna idea para mejorar un proyecto, abre un "issue" en GitHub. ¡Estaré encantado de revisarlo y trabajar en soluciones!
+2. 🐛 **Issues**: If you come across any bugs or have ideas for improvement, open an issue on GitHub. I'll gladly review and work on solutions!
 
-3. 🤝 **Pull Requests**: Si deseas agregar nuevas características o corregir problemas existentes, ¡envía un "pull request"! Revisaré tus cambios y los fusionaré si son beneficiosos para el proyecto.
+3. 🤝 **Pull Requests**: If you want to add new features or fix existing issues, submit a pull request! I'll review your changes and merge them if they benefit the project.
 
-## 📞 Contacto
+## 📞 Contact
 
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre programación y desarrollo web!
+Feel free to reach out if you have any questions, suggestions, or just want to chat about programming and web development!
 
 📧 Email: dianabarrantesga1510@gmail.com
 
-📲 Linkedln: https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/
+📲 LinkedIn: [Diana Michelle Barrantes Gallardo](https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/)
 
-¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante y útil aquí. ¡Diviértete explorando y desarrollando! 😄
-
+Thanks for visiting my repository! I hope you find something interesting and useful here. Enjoy exploring and coding! 😄
 
 [![Dino_gif](gifdino.gif)](https://wayou.github.io/t-rex-runner/)
 
