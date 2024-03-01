@@ -1,59 +1,50 @@
-# 👋 console.log("Hello world!");
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Hello! I'm an enthusiastic web developer and programmer proficient in HTML, CSS, JavaScript, Python, and Java. Welcome to my GitHub repository! Here you'll find a collection of my projects, code snippets, and creative experiments.
+###
 
-## 🐱 About Me
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/93950261?v=4"  />
 
-👨‍💻 I'm a programming enthusiast who loves crafting innovative solutions. I'm always on the lookout for new challenges and opportunities to learn and grow as a developer.
+###
 
-🌐 My primary focus revolves around web development, using HTML and CSS to create engaging and responsive interfaces. Additionally, I enjoy building applications with Python and Java to enhance server-side functionality.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 📁 Featured Projects
+###
 
-Here's a glimpse of some of my standout projects:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 🌱 Eco-friendly Project SAFCA
-### 🤖 TYM Intelligent Chatbot for Assistance
-### 🌐 Company Websites:
-1. Yawar Ayllu
-2. Vivero San Vicente
-3. DimiStudios
-4. Transmarr
+###
 
-## 🤝 How to Contribute
+<div align="center">
+  <a href="https://open.spotify.com/user/D.M">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=D.M&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-I would love to receive contributions and suggestions to enhance my projects! If you'd like to collaborate, here are a few ways to do so:
+###
 
-1. 🌟 **Star**: If you find any of my projects interesting or useful, give it a star on GitHub! This helps me gauge your preferences and keeps me motivated.
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DimiStudios" alt="Layout with last medium posts"  />
+</div>
 
-2. 🐛 **Issues**: If you come across any bugs or have ideas for improvement, open an issue on GitHub. I'll gladly review and work on solutions!
-
-3. 🤝 **Pull Requests**: If you want to add new features or fix existing issues, submit a pull request! I'll review your changes and merge them if they benefit the project.
-
-## 📞 Contact
-
-Feel free to reach out if you have any questions, suggestions, or just want to chat about programming and web development!
-
-📧 Email: dianabarrantesga1510@gmail.com
-
-📲 LinkedIn: [Diana Michelle Barrantes Gallardo](https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/)
-
-Thanks for visiting my repository! I hope you find something interesting and useful here. Enjoy exploring and coding! 😄
-
-[![Dino_gif](gifdino.gif)](https://wayou.github.io/t-rex-runner/)
-
-
-<!--
-**DIMIBAGA/DIMIBAGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
