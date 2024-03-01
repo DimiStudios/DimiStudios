@@ -43,24 +43,28 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/diana-michelle-barrantes-gallardo-139139253/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/daoo6mt66hsjlcxj4ubhezj97">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=daoo6mt66hsjlcxj4ubhezj97&count=3&unique=true&width=600" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=daoo6mt66hsjlcxj4ubhezj97&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DimiStudios/DimiStudios/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DimiStudios&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
