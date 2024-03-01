@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/DimiStudios/DimiStudios/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src=".github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
