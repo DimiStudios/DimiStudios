@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Diana Michelle Barrantes Gallardo</h2>
 
 ###
